@@ -1,0 +1,2124 @@
+{
+  "data": [
+    {
+      "id": 32,
+      "orderNumber": 1,
+      "title": "4-2-4",
+      "positions": [
+        {
+          "col": 4,
+          "line": 7,
+          "orderNumber": 3,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 6,
+          "line": 7,
+          "orderNumber": 4,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 8,
+          "line": 7,
+          "orderNumber": 5,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Правый защитник",
+          "slugSubPosition": "rightback"
+        },
+        {
+          "col": 4,
+          "line": 5,
+          "orderNumber": 6,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 2,
+          "line": 2,
+          "orderNumber": 8,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        },
+        {
+          "col": 8,
+          "line": 2,
+          "orderNumber": 9,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        },
+        {
+          "col": 4,
+          "line": 1,
+          "orderNumber": 10,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Центральный нападающий",
+          "slugSubPosition": "centralforward"
+        },
+        {
+          "col": 6,
+          "line": 1,
+          "orderNumber": 11,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Центральный нападающий",
+          "slugSubPosition": "centralforward"
+        },
+        {
+          "col": 5,
+          "line": 9,
+          "orderNumber": 1,
+          "title": "Вратарь",
+          "slugPosition": "Goalkeeper",
+          "subTitle": "Вратарь",
+          "slugSubPosition": "goalkeeper"
+        },
+        {
+          "col": 2,
+          "line": 7,
+          "orderNumber": 2,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Левый защитник",
+          "slugSubPosition": "leftback"
+        },
+        {
+          "col": 6,
+          "line": 5,
+          "orderNumber": 7,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "orderNumber": 2,
+      "title": "4-4-2",
+      "positions": [
+        {
+          "col": 5,
+          "line": 9,
+          "orderNumber": 1,
+          "title": "Вратарь",
+          "slugPosition": "Goalkeeper",
+          "subTitle": "Вратарь",
+          "slugSubPosition": "goalkeeper"
+        },
+        {
+          "col": 2,
+          "line": 7,
+          "orderNumber": 2,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Левый защитник",
+          "slugSubPosition": "leftback"
+        },
+        {
+          "col": 4,
+          "line": 7,
+          "orderNumber": 3,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 6,
+          "line": 7,
+          "orderNumber": 4,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 2,
+          "line": 5,
+          "orderNumber": 6,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Левый полузащитник",
+          "slugSubPosition": "leftmidfielder"
+        },
+        {
+          "col": 4,
+          "line": 5,
+          "orderNumber": 7,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 6,
+          "line": 5,
+          "orderNumber": 8,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 8,
+          "line": 5,
+          "orderNumber": 9,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Правый полузащитник",
+          "slugSubPosition": "rightmidfielder"
+        },
+        {
+          "col": 4,
+          "line": 2,
+          "orderNumber": 10,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Центральный нападающий",
+          "slugSubPosition": "centralforward"
+        },
+        {
+          "col": 6,
+          "line": 2,
+          "orderNumber": 11,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        },
+        {
+          "col": 8,
+          "line": 7,
+          "orderNumber": 5,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Правый защитник",
+          "slugSubPosition": "rightback"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "orderNumber": 3,
+      "title": "3-5-2",
+      "positions": [
+        {
+          "col": 5,
+          "line": 9,
+          "orderNumber": 1,
+          "title": "Вратарь",
+          "slugPosition": "Goalkeeper",
+          "subTitle": "Вратарь",
+          "slugSubPosition": "goalkeeper"
+        },
+        {
+          "col": 3,
+          "line": 7,
+          "orderNumber": 2,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 5,
+          "line": 7,
+          "orderNumber": 3,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 7,
+          "line": 7,
+          "orderNumber": 4,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 1,
+          "line": 4,
+          "orderNumber": 5,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Левый полузащитник",
+          "slugSubPosition": "leftmidfielder"
+        },
+        {
+          "col": 3,
+          "line": 5,
+          "orderNumber": 6,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 5,
+          "line": 5,
+          "orderNumber": 7,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный атакующий полузащитник",
+          "slugSubPosition": "playmaker"
+        },
+        {
+          "col": 7,
+          "line": 5,
+          "orderNumber": 8,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 9,
+          "line": 4,
+          "orderNumber": 9,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Правый полузащитник",
+          "slugSubPosition": "rightmidfielder"
+        },
+        {
+          "col": 4,
+          "line": 2,
+          "orderNumber": 10,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Центральный нападающий",
+          "slugSubPosition": "centralforward"
+        },
+        {
+          "col": 6,
+          "line": 2,
+          "orderNumber": 11,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Центральный нападающий",
+          "slugSubPosition": "centralforward"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "orderNumber": 4,
+      "title": "5-4-1",
+      "positions": [
+        {
+          "col": 5,
+          "line": 9,
+          "orderNumber": 1,
+          "title": "Вратарь",
+          "slugPosition": "Goalkeeper",
+          "subTitle": "Вратарь",
+          "slugSubPosition": "goalkeeper"
+        },
+        {
+          "col": 1,
+          "line": 8,
+          "orderNumber": 2,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Левый защитник",
+          "slugSubPosition": "leftback"
+        },
+        {
+          "col": 3,
+          "line": 8,
+          "orderNumber": 3,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 5,
+          "line": 8,
+          "orderNumber": 4,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 7,
+          "line": 8,
+          "orderNumber": 5,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 9,
+          "line": 8,
+          "orderNumber": 6,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Правый защитник",
+          "slugSubPosition": "rightback"
+        },
+        {
+          "col": 2,
+          "line": 5,
+          "orderNumber": 7,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Левый полузащитник",
+          "slugSubPosition": "leftmidfielder"
+        },
+        {
+          "col": 4,
+          "line": 5,
+          "orderNumber": 8,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 6,
+          "line": 5,
+          "orderNumber": 9,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 8,
+          "line": 5,
+          "orderNumber": 10,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Правый полузащитник",
+          "slugSubPosition": "rightmidfielder"
+        },
+        {
+          "col": 5,
+          "line": 2,
+          "orderNumber": 11,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Центральный нападающий",
+          "slugSubPosition": "centralforward"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "orderNumber": 5,
+      "title": "4-3-3",
+      "positions": [
+        {
+          "col": 2,
+          "line": 5,
+          "orderNumber": 6,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 8,
+          "line": 2,
+          "orderNumber": 10,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        },
+        {
+          "col": 5,
+          "line": 1,
+          "orderNumber": 11,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Центральный нападающий",
+          "slugSubPosition": "centralforward"
+        },
+        {
+          "col": 5,
+          "line": 9,
+          "orderNumber": 1,
+          "title": "Вратарь",
+          "slugPosition": "Goalkeeper",
+          "subTitle": "Вратарь",
+          "slugSubPosition": "goalkeeper"
+        },
+        {
+          "col": 4,
+          "line": 8,
+          "orderNumber": 3,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 8,
+          "line": 8,
+          "orderNumber": 5,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Правый защитник",
+          "slugSubPosition": "rightback"
+        },
+        {
+          "col": 8,
+          "line": 5,
+          "orderNumber": 8,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 2,
+          "line": 2,
+          "orderNumber": 9,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        },
+        {
+          "col": 2,
+          "line": 8,
+          "orderNumber": 2,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Левый защитник",
+          "slugSubPosition": "leftback"
+        },
+        {
+          "col": 6,
+          "line": 8,
+          "orderNumber": 4,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 5,
+          "line": 5,
+          "orderNumber": 7,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "orderNumber": 6,
+      "title": "4-3-2-1",
+      "positions": [
+        {
+          "col": 8,
+          "line": 8,
+          "orderNumber": 5,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Правый защитник",
+          "slugSubPosition": "rightback"
+        },
+        {
+          "col": 3,
+          "line": 6,
+          "orderNumber": 6,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 7,
+          "line": 6,
+          "orderNumber": 8,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 4,
+          "line": 3,
+          "orderNumber": 9,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        },
+        {
+          "col": 6,
+          "line": 3,
+          "orderNumber": 10,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        },
+        {
+          "col": 5,
+          "line": 1,
+          "orderNumber": 11,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Центральный нападающий",
+          "slugSubPosition": "centralforward"
+        },
+        {
+          "col": 6,
+          "line": 8,
+          "orderNumber": 4,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 2,
+          "line": 8,
+          "orderNumber": 2,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Левый защитник",
+          "slugSubPosition": "leftback"
+        },
+        {
+          "col": 4,
+          "line": 8,
+          "orderNumber": 3,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 5,
+          "line": 9,
+          "orderNumber": 1,
+          "title": "Вратарь",
+          "slugPosition": "Goalkeeper",
+          "subTitle": "Вратарь",
+          "slugSubPosition": "goalkeeper"
+        },
+        {
+          "col": 5,
+          "line": 6,
+          "orderNumber": 7,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "orderNumber": 7,
+      "title": "4-5-1",
+      "positions": [
+        {
+          "col": 5,
+          "line": 9,
+          "orderNumber": 1,
+          "title": "Вратарь",
+          "slugPosition": "Goalkeeper",
+          "subTitle": "Вратарь",
+          "slugSubPosition": "goalkeeper"
+        },
+        {
+          "col": 2,
+          "line": 7,
+          "orderNumber": 2,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Левый защитник",
+          "slugSubPosition": "leftback"
+        },
+        {
+          "col": 4,
+          "line": 7,
+          "orderNumber": 3,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 6,
+          "line": 7,
+          "orderNumber": 4,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 8,
+          "line": 7,
+          "orderNumber": 5,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Правый защитник",
+          "slugSubPosition": "rightback"
+        },
+        {
+          "col": 1,
+          "line": 4,
+          "orderNumber": 6,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Левый полузащитник",
+          "slugSubPosition": "leftmidfielder"
+        },
+        {
+          "col": 3,
+          "line": 4,
+          "orderNumber": 7,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 5,
+          "line": 4,
+          "orderNumber": 8,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный атакующий полузащитник",
+          "slugSubPosition": "playmaker"
+        },
+        {
+          "col": 7,
+          "line": 4,
+          "orderNumber": 9,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 5,
+          "line": 1,
+          "orderNumber": 11,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Центральный нападающий",
+          "slugSubPosition": "centralforward"
+        },
+        {
+          "col": 9,
+          "line": 4,
+          "orderNumber": 10,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Правый полузащитник",
+          "slugSubPosition": "rightmidfielder"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "orderNumber": 8,
+      "title": "4-2-3-1",
+      "positions": [
+        {
+          "col": 2,
+          "line": 8,
+          "orderNumber": 2,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Левый защитник",
+          "slugSubPosition": "leftback"
+        },
+        {
+          "col": 4,
+          "line": 8,
+          "orderNumber": 3,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 6,
+          "line": 8,
+          "orderNumber": 4,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 8,
+          "line": 8,
+          "orderNumber": 5,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Правый защитник",
+          "slugSubPosition": "rightback"
+        },
+        {
+          "col": 3,
+          "line": 6,
+          "orderNumber": 6,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 7,
+          "line": 6,
+          "orderNumber": 7,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 1,
+          "line": 4,
+          "orderNumber": 8,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        },
+        {
+          "col": 5,
+          "line": 4,
+          "orderNumber": 9,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный атакующий полузащитник",
+          "slugSubPosition": "playmaker"
+        },
+        {
+          "col": 9,
+          "line": 4,
+          "orderNumber": 10,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        },
+        {
+          "col": 5,
+          "line": 1,
+          "orderNumber": 11,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Центральный нападающий",
+          "slugSubPosition": "centralforward"
+        },
+        {
+          "col": 5,
+          "line": 9,
+          "orderNumber": 1,
+          "title": "Вратарь",
+          "slugPosition": "Goalkeeper",
+          "subTitle": "Вратарь",
+          "slugSubPosition": "goalkeeper"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "orderNumber": 9,
+      "title": "5-3-2",
+      "positions": [
+        {
+          "col": 1,
+          "line": 7,
+          "orderNumber": 2,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Левый защитник",
+          "slugSubPosition": "leftback"
+        },
+        {
+          "col": 5,
+          "line": 9,
+          "orderNumber": 1,
+          "title": "Вратарь",
+          "slugPosition": "Goalkeeper",
+          "subTitle": "Вратарь",
+          "slugSubPosition": "goalkeeper"
+        },
+        {
+          "col": 3,
+          "line": 7,
+          "orderNumber": 3,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 5,
+          "line": 7,
+          "orderNumber": 4,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 7,
+          "line": 7,
+          "orderNumber": 5,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 3,
+          "line": 4,
+          "orderNumber": 7,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 5,
+          "line": 4,
+          "orderNumber": 8,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 7,
+          "line": 4,
+          "orderNumber": 9,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 4,
+          "line": 1,
+          "orderNumber": 10,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Центральный нападающий",
+          "slugSubPosition": "centralforward"
+        },
+        {
+          "col": 6,
+          "line": 1,
+          "orderNumber": 11,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        },
+        {
+          "col": 9,
+          "line": 7,
+          "orderNumber": 6,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Правый защитник",
+          "slugSubPosition": "rightback"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "orderNumber": 10,
+      "title": "3-4-3",
+      "positions": [
+        {
+          "col": 3,
+          "line": 7,
+          "orderNumber": 2,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 5,
+          "line": 7,
+          "orderNumber": 3,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 7,
+          "line": 7,
+          "orderNumber": 4,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 2,
+          "line": 5,
+          "orderNumber": 5,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Левый полузащитник",
+          "slugSubPosition": "leftmidfielder"
+        },
+        {
+          "col": 4,
+          "line": 5,
+          "orderNumber": 6,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 6,
+          "line": 5,
+          "orderNumber": 7,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 8,
+          "line": 5,
+          "orderNumber": 8,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Правый полузащитник",
+          "slugSubPosition": "rightmidfielder"
+        },
+        {
+          "col": 3,
+          "line": 2,
+          "orderNumber": 9,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        },
+        {
+          "col": 7,
+          "line": 2,
+          "orderNumber": 10,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        },
+        {
+          "col": 5,
+          "line": 1,
+          "orderNumber": 11,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Центральный нападающий",
+          "slugSubPosition": "centralforward"
+        },
+        {
+          "col": 5,
+          "line": 9,
+          "orderNumber": 1,
+          "title": "Вратарь",
+          "slugPosition": "Goalkeeper",
+          "subTitle": "Вратарь",
+          "slugSubPosition": "goalkeeper"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "orderNumber": 12,
+      "title": "4-2-1-3",
+      "positions": [
+        {
+          "col": 2,
+          "line": 8,
+          "orderNumber": 2,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Правый защитник",
+          "slugSubPosition": "rightback"
+        },
+        {
+          "col": 3,
+          "line": 5,
+          "orderNumber": 6,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 7,
+          "line": 5,
+          "orderNumber": 7,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 5,
+          "line": 3,
+          "orderNumber": 8,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный атакующий полузащитник",
+          "slugSubPosition": "playmaker"
+        },
+        {
+          "col": 2,
+          "line": 2,
+          "orderNumber": 9,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        },
+        {
+          "col": 8,
+          "line": 2,
+          "orderNumber": 10,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Центральный нападающий",
+          "slugSubPosition": "centralforward"
+        },
+        {
+          "col": 5,
+          "line": 1,
+          "orderNumber": 11,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        },
+        {
+          "col": 4,
+          "line": 8,
+          "orderNumber": 3,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 6,
+          "line": 8,
+          "orderNumber": 4,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 8,
+          "line": 8,
+          "orderNumber": 5,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Левый защитник",
+          "slugSubPosition": "leftback"
+        },
+        {
+          "col": 5,
+          "line": 9,
+          "orderNumber": 1,
+          "title": "Вратарь",
+          "slugPosition": "Goalkeeper",
+          "subTitle": "Вратарь",
+          "slugSubPosition": "goalkeeper"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "orderNumber": 13,
+      "title": "4-1-2-3",
+      "positions": [
+        {
+          "col": 5,
+          "line": 6,
+          "orderNumber": 6,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 6,
+          "line": 4,
+          "orderNumber": 7,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный атакующий полузащитник",
+          "slugSubPosition": "playmaker"
+        },
+        {
+          "col": 4,
+          "line": 4,
+          "orderNumber": 8,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный атакующий полузащитник",
+          "slugSubPosition": "playmaker"
+        },
+        {
+          "col": 2,
+          "line": 2,
+          "orderNumber": 9,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        },
+        {
+          "col": 8,
+          "line": 2,
+          "orderNumber": 10,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        },
+        {
+          "col": 5,
+          "line": 1,
+          "orderNumber": 11,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Центральный нападающий",
+          "slugSubPosition": "centralforward"
+        },
+        {
+          "col": 5,
+          "line": 9,
+          "orderNumber": 1,
+          "title": "Вратарь",
+          "slugPosition": "Goalkeeper",
+          "subTitle": "Вратарь",
+          "slugSubPosition": "goalkeeper"
+        },
+        {
+          "col": 2,
+          "line": 8,
+          "orderNumber": 2,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Правый защитник",
+          "slugSubPosition": "rightback"
+        },
+        {
+          "col": 4,
+          "line": 8,
+          "orderNumber": 3,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Правый защитник",
+          "slugSubPosition": "rightback"
+        },
+        {
+          "col": 6,
+          "line": 8,
+          "orderNumber": 4,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Правый защитник",
+          "slugSubPosition": "rightback"
+        },
+        {
+          "col": 8,
+          "line": 8,
+          "orderNumber": 5,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Правый защитник",
+          "slugSubPosition": "rightback"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "orderNumber": 14,
+      "title": "4-4-1-1",
+      "positions": [
+        {
+          "col": 5,
+          "line": 9,
+          "orderNumber": 1,
+          "title": "Вратарь",
+          "slugPosition": "Goalkeeper",
+          "subTitle": "Вратарь",
+          "slugSubPosition": "goalkeeper"
+        },
+        {
+          "col": 2,
+          "line": 8,
+          "orderNumber": 2,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Правый защитник",
+          "slugSubPosition": "rightback"
+        },
+        {
+          "col": 4,
+          "line": 8,
+          "orderNumber": 3,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Правый защитник",
+          "slugSubPosition": "rightback"
+        },
+        {
+          "col": 6,
+          "line": 8,
+          "orderNumber": 4,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Правый защитник",
+          "slugSubPosition": "rightback"
+        },
+        {
+          "col": 8,
+          "line": 8,
+          "orderNumber": 5,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Правый защитник",
+          "slugSubPosition": "rightback"
+        },
+        {
+          "col": 2,
+          "line": 5,
+          "orderNumber": 6,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Левый полузащитник",
+          "slugSubPosition": "leftmidfielder"
+        },
+        {
+          "col": 4,
+          "line": 5,
+          "orderNumber": 7,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 6,
+          "line": 5,
+          "orderNumber": 8,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 8,
+          "line": 5,
+          "orderNumber": 9,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Правый полузащитник",
+          "slugSubPosition": "rightmidfielder"
+        },
+        {
+          "col": 5,
+          "line": 3,
+          "orderNumber": 10,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный атакующий полузащитник",
+          "slugSubPosition": "playmaker"
+        },
+        {
+          "col": 5,
+          "line": 1,
+          "orderNumber": 11,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Центральный нападающий",
+          "slugSubPosition": "centralforward"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "orderNumber": 15,
+      "title": "3-2-5",
+      "positions": [
+        {
+          "col": 4,
+          "line": 6,
+          "orderNumber": 5,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 6,
+          "line": 6,
+          "orderNumber": 6,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 3,
+          "line": 4,
+          "orderNumber": 7,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный атакующий полузащитник",
+          "slugSubPosition": "playmaker"
+        },
+        {
+          "col": 7,
+          "line": 4,
+          "orderNumber": 8,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный атакующий полузащитник",
+          "slugSubPosition": "playmaker"
+        },
+        {
+          "col": 2,
+          "line": 2,
+          "orderNumber": 9,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        },
+        {
+          "col": 5,
+          "line": 2,
+          "orderNumber": 10,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Центральный нападающий",
+          "slugSubPosition": "centralforward"
+        },
+        {
+          "col": 8,
+          "line": 2,
+          "orderNumber": 11,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        },
+        {
+          "col": 5,
+          "line": 9,
+          "orderNumber": 1,
+          "title": "Вратарь",
+          "slugPosition": "Goalkeeper",
+          "subTitle": "Вратарь",
+          "slugSubPosition": "goalkeeper"
+        },
+        {
+          "col": 3,
+          "line": 8,
+          "orderNumber": 2,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 5,
+          "line": 8,
+          "orderNumber": 3,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 7,
+          "line": 8,
+          "orderNumber": 4,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "orderNumber": 16,
+      "title": "4-6-0",
+      "positions": [
+        {
+          "col": 8,
+          "line": 8,
+          "orderNumber": 5,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Правый защитник",
+          "slugSubPosition": "rightback"
+        },
+        {
+          "col": 5,
+          "line": 9,
+          "orderNumber": 1,
+          "title": "Вратарь",
+          "slugPosition": "Goalkeeper",
+          "subTitle": "Вратарь",
+          "slugSubPosition": "goalkeeper"
+        },
+        {
+          "col": 5,
+          "line": 6,
+          "orderNumber": 6,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 3,
+          "line": 5,
+          "orderNumber": 7,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 7,
+          "line": 5,
+          "orderNumber": 8,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 1,
+          "line": 4,
+          "orderNumber": 9,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Левый полузащитник",
+          "slugSubPosition": "leftmidfielder"
+        },
+        {
+          "col": 9,
+          "line": 4,
+          "orderNumber": 10,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Правый полузащитник",
+          "slugSubPosition": "rightmidfielder"
+        },
+        {
+          "col": 5,
+          "line": 3,
+          "orderNumber": 11,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный атакующий полузащитник",
+          "slugSubPosition": "playmaker"
+        },
+        {
+          "col": 2,
+          "line": 8,
+          "orderNumber": 2,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Левый защитник",
+          "slugSubPosition": "leftback"
+        },
+        {
+          "col": 4,
+          "line": 8,
+          "orderNumber": 3,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 6,
+          "line": 8,
+          "orderNumber": 4,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "orderNumber": 17,
+      "title": "3-3-3-1",
+      "positions": [
+        {
+          "col": 5,
+          "line": 9,
+          "orderNumber": 1,
+          "title": "Вратарь",
+          "slugPosition": "Goalkeeper",
+          "subTitle": "Вратарь",
+          "slugSubPosition": "goalkeeper"
+        },
+        {
+          "col": 5,
+          "line": 6,
+          "orderNumber": 6,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 7,
+          "line": 6,
+          "orderNumber": 7,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 5,
+          "line": 3,
+          "orderNumber": 9,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        },
+        {
+          "col": 7,
+          "line": 3,
+          "orderNumber": 10,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        },
+        {
+          "col": 5,
+          "line": 8,
+          "orderNumber": 3,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 7,
+          "line": 8,
+          "orderNumber": 4,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 3,
+          "line": 8,
+          "orderNumber": 2,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 3,
+          "line": 6,
+          "orderNumber": 5,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 3,
+          "line": 3,
+          "orderNumber": 8,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        },
+        {
+          "col": 5,
+          "line": 1,
+          "orderNumber": 11,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Центральный нападающий",
+          "slugSubPosition": "centralforward"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "orderNumber": 18,
+      "title": "3-4-2-1",
+      "positions": [
+        {
+          "col": 5,
+          "line": 9,
+          "orderNumber": 1,
+          "title": "Вратарь",
+          "slugPosition": "Goalkeeper",
+          "subTitle": "Вратарь",
+          "slugSubPosition": "goalkeeper"
+        },
+        {
+          "col": 2,
+          "line": 8,
+          "orderNumber": 2,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Левый защитник",
+          "slugSubPosition": "leftback"
+        },
+        {
+          "col": 5,
+          "line": 8,
+          "orderNumber": 3,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 8,
+          "line": 8,
+          "orderNumber": 4,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Правый защитник",
+          "slugSubPosition": "rightback"
+        },
+        {
+          "col": 2,
+          "line": 6,
+          "orderNumber": 5,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Левый полузащитник",
+          "slugSubPosition": "leftmidfielder"
+        },
+        {
+          "col": 4,
+          "line": 6,
+          "orderNumber": 6,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 6,
+          "line": 6,
+          "orderNumber": 7,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 8,
+          "line": 6,
+          "orderNumber": 8,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Правый полузащитник",
+          "slugSubPosition": "rightmidfielder"
+        },
+        {
+          "col": 4,
+          "line": 4,
+          "orderNumber": 9,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный атакующий полузащитник",
+          "slugSubPosition": "playmaker"
+        },
+        {
+          "col": 6,
+          "line": 4,
+          "orderNumber": 10,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный атакующий полузащитник",
+          "slugSubPosition": "playmaker"
+        },
+        {
+          "col": 5,
+          "line": 2,
+          "orderNumber": 11,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Центральный нападающий",
+          "slugSubPosition": "centralforward"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "orderNumber": 19,
+      "title": "4-1-4-1",
+      "positions": [
+        {
+          "col": 2,
+          "line": 8,
+          "orderNumber": 2,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Левый защитник",
+          "slugSubPosition": "leftback"
+        },
+        {
+          "col": 4,
+          "line": 8,
+          "orderNumber": 3,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 6,
+          "line": 8,
+          "orderNumber": 4,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 8,
+          "line": 8,
+          "orderNumber": 5,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Правый защитник",
+          "slugSubPosition": "rightback"
+        },
+        {
+          "col": 5,
+          "line": 6,
+          "orderNumber": 6,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 2,
+          "line": 4,
+          "orderNumber": 7,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Левый полузащитник",
+          "slugSubPosition": "leftmidfielder"
+        },
+        {
+          "col": 4,
+          "line": 4,
+          "orderNumber": 8,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 6,
+          "line": 4,
+          "orderNumber": 9,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 8,
+          "line": 4,
+          "orderNumber": 10,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Правый полузащитник",
+          "slugSubPosition": "rightmidfielder"
+        },
+        {
+          "col": 5,
+          "line": 2,
+          "orderNumber": 11,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Центральный нападающий",
+          "slugSubPosition": "centralforward"
+        },
+        {
+          "col": 5,
+          "line": 9,
+          "orderNumber": 1,
+          "title": "Вратарь",
+          "slugPosition": "Goalkeeper",
+          "subTitle": "Вратарь",
+          "slugSubPosition": "goalkeeper"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "orderNumber": 20,
+      "title": "3-4-1-2",
+      "positions": [
+        {
+          "col": 5,
+          "line": 9,
+          "orderNumber": 1,
+          "title": "Вратарь",
+          "slugPosition": "Goalkeeper",
+          "subTitle": "Вратарь",
+          "slugSubPosition": "goalkeeper"
+        },
+        {
+          "col": 3,
+          "line": 8,
+          "orderNumber": 2,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Левый защитник",
+          "slugSubPosition": "leftback"
+        },
+        {
+          "col": 5,
+          "line": 8,
+          "orderNumber": 3,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 7,
+          "line": 8,
+          "orderNumber": 4,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Правый защитник",
+          "slugSubPosition": "rightback"
+        },
+        {
+          "col": 2,
+          "line": 5,
+          "orderNumber": 5,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Левый полузащитник",
+          "slugSubPosition": "leftmidfielder"
+        },
+        {
+          "col": 4,
+          "line": 5,
+          "orderNumber": 6,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 6,
+          "line": 5,
+          "orderNumber": 7,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 8,
+          "line": 5,
+          "orderNumber": 8,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Правый полузащитник",
+          "slugSubPosition": "rightmidfielder"
+        },
+        {
+          "col": 5,
+          "line": 3,
+          "orderNumber": 9,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный атакующий полузащитник",
+          "slugSubPosition": "playmaker"
+        },
+        {
+          "col": 3,
+          "line": 2,
+          "orderNumber": 10,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        },
+        {
+          "col": 7,
+          "line": 2,
+          "orderNumber": 11,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "orderNumber": 21,
+      "title": "3-3-4",
+      "positions": [
+        {
+          "col": 5,
+          "line": 9,
+          "orderNumber": 1,
+          "title": "Вратарь",
+          "slugPosition": "Goalkeeper",
+          "subTitle": "Вратарь",
+          "slugSubPosition": "goalkeeper"
+        },
+        {
+          "col": 2,
+          "line": 8,
+          "orderNumber": 2,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Левый защитник",
+          "slugSubPosition": "leftback"
+        },
+        {
+          "col": 5,
+          "line": 8,
+          "orderNumber": 3,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Центральный защитник",
+          "slugSubPosition": "centralback"
+        },
+        {
+          "col": 8,
+          "line": 8,
+          "orderNumber": 4,
+          "title": "Защитник",
+          "slugPosition": "Defender",
+          "subTitle": "Правый защитник",
+          "slugSubPosition": "rightback"
+        },
+        {
+          "col": 2,
+          "line": 5,
+          "orderNumber": 5,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Левый полузащитник",
+          "slugSubPosition": "leftmidfielder"
+        },
+        {
+          "col": 5,
+          "line": 5,
+          "orderNumber": 6,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Центральный опорный полузащитник",
+          "slugSubPosition": "centraldefencivemidfielder"
+        },
+        {
+          "col": 8,
+          "line": 5,
+          "orderNumber": 7,
+          "title": "Полузащитник",
+          "slugPosition": "Midfielder",
+          "subTitle": "Правый полузащитник",
+          "slugSubPosition": "rightmidfielder"
+        },
+        {
+          "col": 2,
+          "line": 2,
+          "orderNumber": 8,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        },
+        {
+          "col": 4,
+          "line": 2,
+          "orderNumber": 9,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Центральный нападающий",
+          "slugSubPosition": "centralforward"
+        },
+        {
+          "col": 6,
+          "line": 2,
+          "orderNumber": 10,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Центральный нападающий",
+          "slugSubPosition": "centralforward"
+        },
+        {
+          "col": 8,
+          "line": 2,
+          "orderNumber": 11,
+          "title": "Нападающий",
+          "slugPosition": "Attacker",
+          "subTitle": "Нападающий",
+          "slugSubPosition": "winger"
+        }
+      ]
+    }
+  ]
+}

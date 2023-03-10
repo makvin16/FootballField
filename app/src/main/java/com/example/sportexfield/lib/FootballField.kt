@@ -12,6 +12,7 @@ import androidx.constraintlayout.widget.ConstraintLayout
 import androidx.constraintlayout.widget.ConstraintSet
 import com.example.sportexfield.R
 import com.example.sportexfield.databinding.PartFootballFieldBinding
+import com.example.sportexfield.dp
 import com.example.sportexfield.logger
 import com.example.sportexfield.model.PositionDto
 import com.example.sportexfield.model.SchemaDto
@@ -67,18 +68,17 @@ class FootballField(
             val view = View(context)
             view.setBackgroundColor(Color.BLACK)
             view.id = View.generateViewId()
-            val w = 100
-            val h = w
-            view.layoutParams = LayoutParams(w, h)
+            val size = 48.dp
+            view.layoutParams = LayoutParams(size, size)
             val xy = findXY(it)
             constraint.addView(view)
             val constraintSet = ConstraintSet()
             constraintSet.clone(constraint)
             constraintSet.connect(
-                view.id, ConstraintSet.TOP, xy.first, ConstraintSet.TOP, -w / 2
+                view.id, ConstraintSet.TOP, xy.first, ConstraintSet.TOP, -size / 2
             )
             constraintSet.connect(
-                view.id, ConstraintSet.START, xy.second, ConstraintSet.START, -h / 2
+                view.id, ConstraintSet.START, xy.second, ConstraintSet.START, -size / 2
             )
             constraintSet.applyTo(constraint)
         }
